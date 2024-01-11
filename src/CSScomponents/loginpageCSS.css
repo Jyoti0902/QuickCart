@@ -1,0 +1,42 @@
+/* loginpage.css */
+.heading-login{
+  font-weight: bold;
+  color: #2c3e50;
+  text-align: center;
+  margin: 2px; 
+  padding: 10px;
+}
+.Form {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #f392f6;
+  border-radius: 5px;
+  background-color: #f3e1ed;
+}
+.btn-text{
+  color: white;
+  text-decoration: none;
+}
+
+.Form label {
+  font-weight: bold;
+  color: #840373;
+}
+
+.Form .form-control {
+  margin-bottom: 15px;
+  border-color: #ee8dde;
+  border-radius: 3px;
+}
+
+.Form .btn-primary {
+  width: 100%;
+  background-color: #b42fb2;
+  border-color: #f091e0;
+}
+
+.Form .btn-primary:hover {
+  background-color: #f574f9;
+  border-color: #ee5fe4;
+}
